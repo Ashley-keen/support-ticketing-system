@@ -1,6 +1,6 @@
 # Support Ticketing System
 
-> One-line pitch: A full-stack help-desk app where users submit issues, agents track and resolve them, and admins can see resolution analytics.
+> A full-stack help-desk app where users submit issues, agents track and resolve them, and admins can see resolution analytics.
 
 ![screenshot or demo gif here](docs/screenshot.png)
 
