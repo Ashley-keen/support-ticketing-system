@@ -1,4 +1,4 @@
-# Support Ticketing System
+# Support Ticketing System .ᐟ
 
 > A full-stack help-desk app where users submit issues, agents track and resolve them, and admins can see resolution analytics.
 
@@ -9,7 +9,7 @@
 
 ---
 
-## Features
+## Features ⋆. 𐙚 ˚
 
 - User authentication (JWT-based, role-based access: user vs agent)
 - Create, view, and update support tickets
@@ -21,7 +21,7 @@
 
 ---
 
-## Tech Stack
+## Tech Stack ⋆. 𐙚 ˚
 
 **Frontend:** React (Vite), React Router, Axios
 
@@ -36,14 +36,14 @@
 
 ---
 
-## Architecture & Key Decisions
+## Architecture & Key Decisions ⋆. 𐙚 ˚
 
 - **Why PostgreSQL over MongoDB:** Tickets have clear relational structure (a ticket belongs to a user, is assigned to an agent, has many comments) — a relational DB models that more naturally and enforces it via foreign keys.
 
 
 ---
 
-## Project Structure
+## Project Structure ⋆. 𐙚 ˚
 
 ```
 support-ticketing-system/
@@ -60,9 +60,9 @@ support-ticketing-system/
 
 ---
 
-## Getting Started
+## Getting Started ⋆. 𐙚 ˚
 
-### Prerequisites
+### Prerequisites 
 - Node.js 18+
 - A PostgreSQL database (local or hosted — e.g. [Neon](https://urldefense.proofpoint.com/v2/url?u=https-3A__neon.tech&d=DwIFaQ&c=euGZstcaTDllvimEN8b7jXrwqOf-v5A_CdpgnVfiiMM&r=L3Dp6WrTp1okQj3jIsG8RSwCW0G3-dqrEumwK7ss6iwmSeaeVOPbEfrBVoR2-Lqc&m=qYpbw0mJ8lpmus3W9JojG3kCduHdgTlEjYggKLdfLt3hFAdpQQpz5wE25IRJeTIh&s=HeyBxJkzB5Ih2-bBcOrYxMY1iDDCWmeK1rBOwrOm5bQ&e=), [Supabase](https://urldefense.proofpoint.com/v2/url?u=https-3A__supabase.com&d=DwIFaQ&c=euGZstcaTDllvimEN8b7jXrwqOf-v5A_CdpgnVfiiMM&r=L3Dp6WrTp1okQj3jIsG8RSwCW0G3-dqrEumwK7ss6iwmSeaeVOPbEfrBVoR2-Lqc&m=qYpbw0mJ8lpmus3W9JojG3kCduHdgTlEjYggKLdfLt3hFAdpQQpz5wE25IRJeTIh&s=GhlawWoNdOH7htYMXjPquu8QwCOvlnPZ3XqlG5zCdkc&e=))
 
@@ -106,7 +106,7 @@ The app should now be running at `https://urldefense.proofpoint.com/v2/url?u=htt
 
 ---
 
-## API Overview
+## API Overview ⋆. 𐙚 ˚
 
 | Method | Endpoint | Description |
 |--------|----------|--------------|
@@ -119,7 +119,7 @@ The app should now be running at `https://urldefense.proofpoint.com/v2/url?u=htt
 
 ---
 
-## What I'd Improve Next
+## What I'd Improve Next ⋆. 𐙚 ˚
 
 > A short, honest list — shows self-awareness and forward thinking, which interviewers respond well to.
 
@@ -129,6 +129,6 @@ The app should now be running at `https://urldefense.proofpoint.com/v2/url?u=htt
 
 ---
 
-## License
+## License ⋆. 𐙚 ˚
 
 This project is licensed under the MIT License — see [LICENSE](LICENSE) for details.
