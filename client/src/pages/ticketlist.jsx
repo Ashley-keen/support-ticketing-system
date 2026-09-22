@@ -26,7 +26,7 @@ function TicketList(){
         <ul>
           {tickets.map((t) => (
             <li key={t.id}>
-              <Link to={`./tickets/${t.id}`}>{t.title}</Link> - {t.status}
+              <Link to={`/tickets/${t.id}`}>{t.title}</Link> - {t.status}
             </li>
           ))}
         </ul>
